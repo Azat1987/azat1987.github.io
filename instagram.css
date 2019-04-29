@@ -4,6 +4,9 @@
   background-color: lightblue;
   margin: auto;
 }
+p {
+  font-family: 'ZCOOL KuaiLe', cursive;
+}
 
 .line {
   width: 935px;
